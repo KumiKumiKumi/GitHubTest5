@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         println("test1")
         println("test2_ローカルにブランチを作らずそのまま開発")
+        println("test3_Kumiminでcommit and push")
     }
 
     override func didReceiveMemoryWarning() {
